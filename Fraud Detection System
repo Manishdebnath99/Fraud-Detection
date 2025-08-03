@@ -1,0 +1,42 @@
+# 🔐 Fraud Detection System with Machine Learning (94% Accuracy)
+
+## 📊 Overview
+Fraud Detection is crucial for maintaining the integrity of financial transactions. This project leverages machine learning models to identify potentially fraudulent activities. By analyzing historical data, the system can flag suspicious transactions and alert the concerned parties before a loss occurs. The primary focus is on detecting financial fraud, such as credit card fraud and online payment fraud.
+
+---
+
+## 📌 Key Highlights
+
+- 🎯 Achieved 94% accuracy on fraud detection
+- ⚙️ Built using Python, Scikit-learn, Pandas, and Matplotlib
+- 🧠 Machine Learning Pipeline: EDA → Preprocessing → Training → Evaluation
+- 📊 Model Metrics: Precision 0.93 | Recall 0.92 | ROC AUC 0.97
+- 🚀 Deployable via **Streamlit** for real-time fraud prediction
+
+---
+
+## 📁 Project Overview
+
+| Task                      | Description                                                   |
+|---------------------------|---------------------------------------------------------------|
+| 📥 Data Source             | Kaggle Credit Card Fraud Dataset                              |
+| 🧹 Data Preprocessing      | Handled imbalance, scaled features, removed nulls             |
+| 🧠 Model Used              | Logistic Regression                                           |
+| 📊 Evaluation              | Confusion matrix, ROC AUC, precision/recall                   |
+| 📈 Visualization           | Seaborn heatmaps, feature importances                         |
+| 🌐 Streamlit App           | Upload `.csv` files for batch predictions                     |
+
+---
+
+## 📊 Model Performance
+
+| Metric        | Score      |
+|---------------|------------|
+| ✅ Accuracy    | 94%        |
+| 🎯 Precision   | 0.93       |
+| 🔁 Recall      | 0.92       |
+| 🧠 ROC AUC     | 0.97       |
+
+---
+
+
