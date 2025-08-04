@@ -39,10 +39,7 @@ This project analyzes and detects fraudulent transactions using a dataset of fin
 
 ## Model Performance
 
-- **Accuracy:** ~`your_accuracy_score`%
-- **Precision (Fraud class):** ~`your_precision_score`
-
-*(Replace the above with your actual scores, e.g., Accuracy: ~99.7%, Precision: ~76.5)*
+- **Accuracy:** ~ 94%
 
 ## Requirements
 
